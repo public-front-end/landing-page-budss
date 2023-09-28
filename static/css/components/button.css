@@ -1,0 +1,12 @@
+.btn {
+    outline: 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    border-radius: 1rem;
+    padding: 1rem 1.875rem;
+    font-family: "Outfit SemiBold";
+    font-size: 1.25rem;
+    color: var(--white-color);
+    background-color: var(--primary-color);
+}

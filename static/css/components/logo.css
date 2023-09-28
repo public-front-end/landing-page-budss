@@ -1,0 +1,14 @@
+.logo {
+    display: block;
+}
+
+.logo__image {
+  vertical-align: middle;
+}
+
+.logo__title {
+    vertical-align: middle;
+    font-family: "Outfit SemiBold";
+    font-size: 2.3125rem;
+    color: var(--white-color);
+}

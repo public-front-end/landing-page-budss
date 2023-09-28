@@ -1,0 +1,11 @@
+/* @import increases requests to the server, this is bad practice (only for sample) */
+@import url("./abstract/variables.css");
+@import url("./basic/normalize.css");
+@import url("./basic/fonts.css");
+@import url("./basic/basic.css");
+
+@import url("./layout/header.css");
+@import url("./layout/footer.css");
+
+@import url("./components/logo.css");
+@import url("./components/button.css");
